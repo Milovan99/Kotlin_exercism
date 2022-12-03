@@ -1,0 +1,5 @@
+# Project exclude paths
+/hello-world/.gradle/
+/hello-world/build/
+/two-fer/.gradle/
+/two-fer/build/
